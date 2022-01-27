@@ -1,16 +1,16 @@
-# Ola!!👋
+# Seja Bem vindo!!
+> Cursando Analise Desenvolvimento de Sistema
+>> Desenvolvendo Em <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-- 🔭 Cursando Analise Desenvolvimento de Sistema
-- 🌱 Estudando e Desenvolvendo em C#
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-igorsilva&count_private=true&show_icons=true&theme=merko)
 
-<div> 
+<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-igorsilva&layout=compact&langs_count=7&theme=dark"/>
  
   
- 
-  
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-igorsilva&count_private=true&show_icons=true&theme=merko)
+
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+
 
