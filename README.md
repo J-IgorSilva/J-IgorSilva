@@ -1,13 +1,16 @@
 # Ola!!👋
 
-[RESPIRE; BAKUGOU KATSUKI - INTRO_.gif](https://github.com/J-IgorSilva/J-IgorSilva/blob/main/BREATHE%20%3B%20BAKUGOU%20KATSUKI%20-%20INTRO_.gif)
+- 🔭 Cursando Analise Desenvolvimento de Sistema
+- 🌱 Estudando e Desenvolvendo em C#
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-igorsilva&count_private=true&show_icons=true&theme=merko)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+ 
+  
+ 
+  
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
