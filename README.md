@@ -17,6 +17,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-igorsilva&count_private=true&show_icons=true&theme=merko)
 
+##
+![Snake animation](https://github.com/J-IgorSilva/J-IgorSilva/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
