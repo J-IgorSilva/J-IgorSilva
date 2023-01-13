@@ -15,8 +15,13 @@
  
  ##
  <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-igorsilva&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=j-igorsilva&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
+  <a>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-igorsilva&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+  <a>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=j-igorsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+
 </div>
 
 ##
@@ -24,6 +29,7 @@
 
 ##
 <a href="https://www.linkedin.com/in/igor-m-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 
 
