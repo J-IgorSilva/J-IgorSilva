@@ -1,5 +1,6 @@
 # Seja Bem vindo!!
-> Cursando Analise Desenvolvimento de Sistema 
+> Cursando Analise Desenvolvimento de Sistema
+# 💻 Tech Stack:
 <div> 
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -11,24 +12,28 @@
  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
- </div>
+ </div> 
  
- ##
+ # 📊 GitHub Stats:
  <div>
   <a>
-   <img height="150em" src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=j-igorsilva&layout=compact&langs_count=7&theme=dark"/>
+   <img height="155em" src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=j-igorsilva&layout=compact&langs_count=7&theme=dark"/>
   </a>
   <a>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-igorsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact">
+   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-igorsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact">
   </a>
-
 </div>
 
 ##
 ![Snake animation](https://github.com/J-IgorSilva/J-IgorSilva/blob/output/github-contribution-grid-snake.svg)
 
-##
-<a href="https://www.linkedin.com/in/igor-m-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/igor-m-silva) 
+
+---
+[![](https://visitcount.itsvg.in/api?id=J-IgorSilva&icon=0&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
